@@ -11,7 +11,7 @@ IntelliJ IDEA.
 
 * Некорректный расчет баланса счета после пополнения
 * https://github.com/Tukayama/-1.-Java-/issues/1#issue-992524640
-* ![](C:\Users\79067\IdeaProjects\untitled\out\production\untitled\screenshot.png)Скриншот https://docs.google.com/document/d/1bm9Y44V41yGFQJhC_J2lLmADsiYxbH_krzfQckrM-2k/edit?usp=sharing
+* https://github.com/Tukayama/-1.-Java-/blob/master/screenshot.png?raw=true
 
 ## Описание процесса тестирования
 
